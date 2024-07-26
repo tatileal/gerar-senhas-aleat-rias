@@ -1,1 +1,0 @@
-# gerar-senhas-aleat-rias
